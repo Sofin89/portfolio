@@ -1,5 +1,3 @@
-
-
 const Projectcard = ({ imgSrc, title, tags, codelink, projectlink }) => {
   return (
       <div className="work2">

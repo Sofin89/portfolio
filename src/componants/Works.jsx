@@ -1,4 +1,4 @@
-import Projectcard from "./projectcard";
+import Projectcard from "./Projectcard";
 
 
 const workitems = [
